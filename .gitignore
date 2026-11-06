@@ -1,0 +1,8 @@
+Complied Java File
+*.class
+IntelliJ IDEA Files
+.idea/
+Build output
+out/target/
+Operating System Files
+.Ds_store Thumbs.bd
